@@ -37,7 +37,7 @@ public class MainActivity extends ListActivity {
 
             case 1: //redwood
                 startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.visitcalifornia.com/attraction/redwood-national-park")));
-                break;
+                break; 
 
             case 2: //death valley
                 startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.nps.gov/deva/index.htm")));
