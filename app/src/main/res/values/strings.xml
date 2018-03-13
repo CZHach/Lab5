@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">National Parks of California</string>
+    <string name="california">California Image</string>
+    <string name="channelislands">Channel Islands Image</string>
+    <string name="deathvalley">Death Valley Image</string>
+    <string name="joshuatree">Joshua Tree Image</string>
+    <string name="lassenvolcanic">Lassen Volcanic Image</string>
+    <string name="pinnacles">Pinnacles Image</string>
+    <string name="pointreyes">Point Reyes Image</string>
+    <string name="redwood">Redwood Image</string>
+    <string name="sequoiakingscanyon">Sequoia Kings Canyon Image</string>
+    <string name="yosemite">Yosemite Image</string>
+</resources>
